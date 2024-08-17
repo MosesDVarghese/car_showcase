@@ -1,3 +1,15 @@
+# Car Showcase Website
+
+A rental car website application that fetches and displays car information allowing the user to choose their desired car to rent.
+
+Fetching car information implemented.
+
+## Sample Images
+
+<img src="assets/screenshots/ss1.png" >
+<img src="assets/screenshots/ss2.png" >
+<img src="assets/screenshots/ss3.png" >
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
